@@ -15,7 +15,12 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "rxjs": "^5.0.2",
+    "vue-awesome-swiper": "^2.2.6",
+    "vue-lazyload": "1.0.0-rc12",
+    "vue-resource": "^1.0.3",
+    "vuex": "^2.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
